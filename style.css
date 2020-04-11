@@ -7,7 +7,6 @@ body {
     font-size: 14px;
 }
 
-
 .row {
     display: flex;
     align-items: center;
@@ -52,8 +51,6 @@ h6 {
     padding: 8px 5px;
 }
 
-
-
 #btn-add, #btn-search {
     border-color: #1E90FF;
     border-radius: 5px;
@@ -69,7 +66,6 @@ h6 {
 #search-message:focus {
     outline:0;
 }
-
 
 #btn-add:focus {
     outline:0;

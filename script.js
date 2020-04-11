@@ -19,7 +19,7 @@ $('#btn-add').click(
     function() {
         //console.log("clique bouton Add detecte");
         
-        //Creation nouveau message
+        //creation nouveau message
         var message = $("#add-message").val();
         $('body').append(`
                             <div class="row">
@@ -52,7 +52,7 @@ $('#btn-add').click(
     }
 );
 
-//Version JQuery capter le click champ message
+//version JQuery capter le click champ message
 $('#btn-search').click(
     function() {
         //verification detection du click sur bouton search
